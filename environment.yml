@@ -1,0 +1,10 @@
+name: spyder-projects-best-practices
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - sympy
+  - mamba
+  - black
+prefix: /home/mapologo/miniconda3/envs/spyder-projects-best-practices
